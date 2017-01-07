@@ -1,0 +1,7 @@
+#start newsServer, start sentimentServer and uiServer
+clear
+node servers/sentimentServer.js &
+sleep 1
+node servers/newsServer.js &
+sleep 2
+node servers/uiServer.js

@@ -1,0 +1,11 @@
+{"confidence":"62.4917","result":"Negative"}
+{"confidence":"84.7797","result":"Positive"}
+{"confidence":"87.6965","result":"Positive"}
+{"confidence":"80.1607","result":"Negative"}
+{"confidence":"99.6223","result":"Positive"}
+{"confidence":"81.7295","result":"Positive"}
+{"confidence":"88.5663","result":"Positive"}
+{"confidence":"99.9096","result":"Positive"}
+{"confidence":"62.0819","result":"Neutral"}
+{"confidence":"57.1122","result":"Neutral"}
+{"confidence":"50.0000","result":"Neutral"}
