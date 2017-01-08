@@ -1,0 +1,50 @@
+
+body{
+  margin: 0px;
+  background-color: #66FFFF;
+}
+
+header{
+  height: 5%;
+  width: auto;
+}
+
+.navbar-inverse .navbar-header .navbar-brand {
+    font-size: 30px;
+    color: #00CCCC;
+}
+
+.navbar-form .form-group button{
+  padding: 8px 25px;
+}
+
+.container1{
+  position: absolute;
+  top: 8%;
+  left: 2%;
+  right: 2%;
+}
+
+#navlist1>li>a{
+    color: #00CCCC;
+    font-size: 18px;
+}
+
+#navlist1>li>a:hover{
+    color: white;
+    background-color: #00CCCC;
+}
+
+/*footer{
+  position: absolute;;
+  background-color: black;
+  color: blue;
+  height: 15%;
+  width: 100%;
+}
+
+.footdata a{
+  float: right;
+  font-size: 20px;
+  color: #00CCCC;
+}*/

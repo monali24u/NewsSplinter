@@ -1,0 +1,60 @@
+author@#Steve Almasy and Eliott C. McLaughlin, CNN
+title@#Video shows moment airport gunman opened fire
+description@#Security footage obtained by TMZ shows the seconds before and after a gunman police say was Esteban Santiago opened fire at the Fort Lauderdale airport Friday.
+url@#http://www.cnn.com/2017/01/08/us/fort-lauderdale-airport-shooting-main/index.html
+urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170107084507-ft-lauderdale-esteban-santiago-mugshot-super-tease.jpg
+publishedAt@#2017-01-08T23:04:12Z
+author@#Eric Bradner, CNN
+title@#Trump drops inauguration announcer who's done them all since Eisenhower
+description@#President-elect Donald Trump is breaking from 11 presidents' worth of tradition and benching Charles Brotman.
+url@#http://www.cnn.com/2017/01/08/politics/donald-trump-charles-brotman-inauguration-announcer/index.html
+urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170108135310-charlie-brotman-announcer-file-super-tease.jpg
+publishedAt@#2017-01-08T21:48:25Z
+author@#Amy La Porte, Oren Liebermann and Michael Schwartz, CNN
+title@#Jerusalem truck attack: Suspect, 4 slain soldiers identified
+description@#Israeli police have identified the Jerusalem attack suspect as 28-year-old Fadi Qunbar of East Jerusalem.
+url@#http://www.cnn.com/2017/01/08/middleeast/jerusalem-vehicle-attack/index.html
+urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170108071355-02-jerusalem-vehicle-attack-0108-super-tease.jpg
+publishedAt@#2017-01-08T19:43:05Z
+author@#null
+title@#Video shows truck ram into soldiers  - CNN Video
+description@#Police say at least four are dead following a vehicle attack in Jerusalem.
+url@#http://www.cnn.com/videos/world/2017/01/08/jerusalem-vehicle-attack-update-liebermann-video.cnn
+urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170108090208-09-jerusalem-vehicle-attack-0108-super-tease.jpg
+publishedAt@#null
+author@#Amy La Porte, CNN
+title@#Former Iranian President Rafsanjani dies
+description@#Former Iranian President Akbar Hashemi Rafsanjani died Sunday after suffering a heart attack, Iranian state-run media said. He was 82.
+url@#http://www.cnn.com/2017/01/08/middleeast/iran-former-president-rafsanjani-dies/index.html
+urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/130527151200-iran-rafsanjani-story-top.jpg
+publishedAt@#2017-01-08T20:07:06Z
+author@#Sara Ashley O'Brien and Jill Disis
+title@#Martin Shkreli kicked off Twitter
+description@#Martin Shkreli, the reviled pharmaceutical exec, has been suspended by Twitter after making unwanted advances toward a Teen Vogue editor.
+url@#http://money.cnn.com/2017/01/08/technology/martin-shkreli-suspended-twitter/index.html
+urlToImage@#http://i2.cdn.turner.com/money/dam/assets/170108140729-martin-shkreli-house-oversight-780x439.jpg
+publishedAt@#2017-01-08T03:38:34Z
+author@#Eric Bradner, CNN
+title@#McConnell: Trump's Russia hopes 'will be dashed pretty quickly'
+description@#Senate Majority Leader Mitch McConnell said Sunday he believes President-elect Donald Trump's hopes of working more cooperatively with Russia "will be dashed pretty quickly."
+url@#http://www.cnn.com/2017/01/08/politics/mitch-mcconnell-trump-russia/index.html
+urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/161212105952-02-mitch-mcconnell-file-super-tease.jpg
+publishedAt@#2017-01-08T16:35:16Z
+author@#David A. Andelman
+title@#A new look at the Putin-Trump relationship
+description@#An adroit President-elect Donald Trump could find a way to exploit Russian President Vladimir Putin's most sensitive weaknesses, on behalf of the US, says David A. Andelman.
+url@#http://www.cnn.com/2017/01/08/opinions/looking-at-trump-putin-relationship-wrong-andelman/index.html
+urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/161223123731-trump-putin-t1-split-1223-super-tease.jpg
+publishedAt@#2017-01-08T14:09:09Z
+author@#Mohammed Tawfeeq, CNN
+title@#ISIS claims 2 suicide bombings in Baghdad; 16 people killed
+description@#ISIS has claimed responsibility for two suicide bombings at crowded Baghdad markets on Sunday, killing 16 people.
+url@#http://www.cnn.com/2017/01/08/middleeast/iraq-violence/index.html
+urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/160511050927-sadr-city-map-super-tease.jpg
+publishedAt@#2017-01-08T21:52:02Z
+author@#null
+title@#Obama's farewell bash - CNN Video
+description@#A pack of celebrities headed to the White House this weekend for one final White House star-studded bash before the Obama's leave office.
+url@#http://www.cnn.com/videos/tv/2017/01/08/sotu-pkg-full.cnn
+urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170108113817-sotu-pkg-full-00002822-super-tease.jpg
+publishedAt@#null

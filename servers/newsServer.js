@@ -8,11 +8,16 @@ var newsDescriptionArray  = [];  //to store the news discription data extracted 
 var fs = require('fs');
 
 //data variables
-var newsDescription = './newsDescription.txt';
+var newsDescription = './database/newsDescription.txt';
+var newsWholeData = './database/newsWholeData.txt';
 
-var file = fs.createWriteStream(newsDescription);
+//stream for writing news data
+var newsWhole = fs.createWriteStream(newsWholeData);
+var newsDescrip = fs.createWriteStream(newsDescription);
 console.log('newsServer is up!!');
 
+//setup sentimentServer
+var sentimentServer = require('./sentimentServer.js')
 
 //calling news api url to fetch data and storing it into an 'newsDiscriptionArray'
 
@@ -24,18 +29,30 @@ var timer = setTimeout(function getNewsArticles(){
          .end(function(response, err){
             if(err){
               console.log("ERROR : newsServer", err);
+              //setTimeout(getNewsArticles, 5000);
             }
             else{
               //console.log(response.body);
                 newsDescriptionArray = response.body.articles;
                 for(var i=0; i<newsDescriptionArray.length; i++){
-                    file.write(newsDescriptionArray[i].description+"@"+"\n");
+
+                    newsWhole.write("author@#"+ newsDescriptionArray[i].author + "\n")
+                    newsWhole.write("title@#"+ newsDescriptionArray[i].title + "\n")
+                    newsWhole.write("description@#"+ newsDescriptionArray[i].description + "\n")
+                    newsWhole.write("url@#"+ newsDescriptionArray[i].url + "\n")
+                    newsWhole.write("urlToImage@#"+ newsDescriptionArray[i].urlToImage + "\n")
+                    newsWhole.write("publishedAt@#"+ newsDescriptionArray[i].publishedAt + "\n")
+
+                    newsDescrip.write(newsDescriptionArray[i].description+"@"+"\n");
                 }
-                file.end(function() { console.log(newsDescription +" writing success."); });
+                newsWhole.end(function() { console.log(newsWholeData +" writing success."); });
+                newsDescrip.end(function() { console.log(newsDescription +" writing success."); });
+
+                //We have required news file. Tell sentiments to do its job
+                sentimentServer.getSentimentData();
             }
   });
 
 }, 2000);
-
 
 //getNewsArticles();
