@@ -53,6 +53,6 @@ var timer = setInterval(function getNewsArticles(){
             }
   });
 
-}, 10000);
+}, 5000);
 //20 mins 1200000
 //getNewsArticles();

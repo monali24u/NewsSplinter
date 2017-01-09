@@ -20,7 +20,7 @@ var newsObjectArray = [];
 var newsObjectPositiveArray = [];
 var newsObjectNegativeArray = [];
 var newsObjectNeutralArray  = [];
-var newsSentimentPecentage  = [];
+// var newsSentimentPecentage  = [];
 var contentLength = 6;
 var content;
 
@@ -31,6 +31,7 @@ var ProcessNewsAndSentiment = function ProcessNewsAndSentiment(){
           throw err;
       }
       content = data;
+      console.log("content " + content.length);
       processNewsFile();
   });
 }
@@ -38,7 +39,9 @@ var ProcessNewsAndSentiment = function ProcessNewsAndSentiment(){
 
 function processNewsFile() {
   // console.log("come in dataParser");
+  console.log("content inside func  " + content.length);
     var stringData = content.toString();
+    // console.log(stringData.length)
     var textByLine = stringData.split("\n");
     var loopLimit = (textByLine.length - 2) / contentLength;
     var ii = 0;
@@ -76,9 +79,11 @@ function processNewsFile() {
         newsObjectArray.push(objCreate);
 
     }
-    if(newsObjectArray.length > 0)
-       ReadprocessSentimentFile();
+    if(newsObjectArray.length > 0){
+      ReadprocessSentimentFile();
+    }
 
+    // console.log(newsObjectArray)
 }
 
 //parser for newsSentiment file
@@ -92,15 +97,22 @@ fs.readFile(newsSentiment, function read(err, data) {
           throw err;
       }
       sentimentContent = data;
+      console.log("sentimentContent" + sentimentContent.length);
       processSentimentFile();
   });
 //});
 }
 
 function processSentimentFile() {
+
+    var newsObjectPositiveArray = [];
+    var newsObjectNegativeArray = [];
+    var newsObjectNeutralArray  = [];
     var stringData1 = sentimentContent.toString();
     var textByLine1 = stringData1.split("\n");
+    console.log("textByLine1.length" + textByLine1.length);
     var loopLimit1 = (textByLine1.length - 2);
+    console.log("loopLimit1:- " + loopLimit1);
 
     for(var j = 0; j < loopLimit1; j++){
 

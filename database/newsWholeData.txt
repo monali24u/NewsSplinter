@@ -1,9 +1,15 @@
-author@#"MJ Lee, CNN National Politics Reporter"
-title@#How the tables are turning on Obamacare
-description@#Republicans warned seven years ago that a health care law passed only by Democrats -- with no support from the other party -- would struggle to survive. The party-line vote to pass Obamacare, they said, was arrogant and reckless.
-url@#http://www.cnn.com/2017/01/09/politics/tables-turning-on-obamacare/index.html
-urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170105112642-trump-obama-cutout-split-card-super-tease.jpg
-publishedAt@#2017-01-09T16:51:53Z
+author@#"Stephen Collinson, CNN"
+title@#Donald Trump's big week
+description@#Donald Trump is embarking on the most crucial week of his transition into the presidency -- and, as usual, he's at the epicenter of multiple controversies.
+url@#http://www.cnn.com/2017/01/09/politics/donald-trump-big-week/index.html
+urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170104164729-trump-0104-super-tease.jpg
+publishedAt@#2017-01-09T17:56:11Z
+author@#"Bernie Sanders"
+title@#Bernie Sanders' 23 questions for America
+description@#In advance of his town meeting on CNN, Senator Bernie Sanders says it's time to talk about serious issues: these are the 23 questions he wants to discuss.
+url@#http://www.cnn.com/2017/01/09/opinions/serious-questions-bernie-sanders-opinion/index.html
+urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170104080006-bernie-sanders-super-tease.jpg
+publishedAt@#2017-01-09T21:06:58Z
 author@#"Lisa Respers France, CNN"
 title@#Donald Trump attacks Streep for Globes speech
 description@#Meryl Streep never mentioned President-elect Donald Trump by name during her Golden Globes speech but he had no problem going after her.
@@ -16,45 +22,39 @@ description@#Kellyanne Conway and CNN's Chris Cuomo discuss Meryl Streep's Golde
 url@#http://www.cnn.com/videos/politics/2017/01/09/conway-cuomo-meryl-streep-hollywood-newday.cnn
 urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170109082045-conway-hollywood-newday-super-tease.jpg
 publishedAt@#null
+author@#"Sara Murray and Jeremy Diamond, CNN"
+title@#Jared Kushner to be named senior adviser to the president
+description@#Donald Trump's son-in-law, Jared Kushner, will be senior adviser to the president, a senior transition official told CNN Monday.
+url@#http://www.cnn.com/2017/01/09/politics/jared-kushner-to-be-named-senior-adviser-to-the-president/index.html
+urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/161116100921-01-ivanka-trump-jared-kushner-super-tease.jpg
+publishedAt@#2017-01-09T21:00:13Z
+author@#"Theodore Schleifer and Laura Koran, CNN"
+title@#Kerry apologizes for State Department discrimination against LGBT employees
+description@#The State Department on Monday formally apologized for what it describes as decades of discrimination against LGBT employees and job applicants, a rare statement meant to right wrongs that preceded current Secretary of State John Kerry.
+url@#http://www.cnn.com/2017/01/09/politics/state-department-lgbt-employees-apology/index.html
+urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/161228130739-05-john-kerry-1228-super-tease.jpg
+publishedAt@#2017-01-09T19:01:13Z
 author@#"Holly Yan and  AnneClaire Stapleton, CNN"
-title@#Orlando police officer killed; sheriff's deputy dies during search for killer
-description@#An Orlando police officer searching for a murder suspect was gunned down Monday, and a sheriff's deputy looking for her killer also died.
+title@#Orlando police officer killed; sheriff's deputy dies during manhunt
+description@#An Orlando police officer searching for a murder suspect was gunned down Monday, and a sheriff's deputy looking for her killer died shortly later.
 url@#http://www.cnn.com/2017/01/09/us/orlando-shooting-officer-killed/index.html
 urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170109104835-orlando-officer-killed-super-tease.jpg
-publishedAt@#2017-01-09T17:29:17Z
+publishedAt@#2017-01-09T20:19:44Z
 author@#"James Griffiths, CNN"
 title@#North Korea sends message to Trump amid missile threat
 description@#North Korea says it could launch an intercontinental ballistic missile "at any time," even as Pyongyang appeared to offer Donald Trump an avenue for future talks.
 url@#http://www.cnn.com/2017/01/09/asia/north-korea-trump-nuclear-missile/index.html
 urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170109135700-kim-jong-un-20170101-super-tease.jpg
 publishedAt@#2017-01-09T15:36:51Z
-author@#"Stephen Collinson, CNN"
-title@#Donald Trump's big week
-description@#Donald Trump is embarking on the most crucial week of his transition into the presidency -- and, as usual, he's at the epicenter of multiple controversies.
-url@#http://www.cnn.com/2017/01/09/politics/donald-trump-big-week/index.html
-urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170104164729-trump-0104-super-tease.jpg
-publishedAt@#2017-01-09T17:14:26Z
+author@#"MJ Lee, CNN National Politics Reporter"
+title@#How the tables are turning on Obamacare
+description@#Republicans warned seven years ago that a health care law passed only by Democrats -- with no support from the other party -- would struggle to survive. The party-line vote to pass Obamacare, they said, was arrogant and reckless.
+url@#http://www.cnn.com/2017/01/09/politics/tables-turning-on-obamacare/index.html
+urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170105112642-trump-obama-cutout-split-card-super-tease.jpg
+publishedAt@#2017-01-09T16:51:53Z
 author@#"Tim Skoczek, The Axe Files"
 title@#Brennan says Trump ignores intel community at nation's 'peril'
 description@#Outgoing CIA Director John Brennan says President-elect Donald Trump's failure to appreciate the value and importance of the intelligence community could put the nation "at great risk and peril."
 url@#http://www.cnn.com/2017/01/09/politics/john-brennan-axe-files/index.html
 urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/160308190359-axelrod-files-super-tease.jpg
-publishedAt@#2017-01-09T15:32:10Z
-author@#"Jill Dougherty, Mansur Mirovalev and James Masters, CNN"
-title@#US election hacking: Russia hits back at 'unfounded' allegations
-description@#Russia has accused the US of embarking on a "full-scale witch hunt" over accusations it engaged in hacking during the presidential election.
-url@#http://www.cnn.com/2017/01/09/politics/russia-hacking-us-election/index.html
-urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170105115843-putin-japan-super-tease.jpg
-publishedAt@#2017-01-09T16:15:59Z
-author@#"Dana Bash and Abigail Crutchfield, CNN"
-title@#The Senate gym: Jeff Sessions' unlikely bipartisan oasis
-description@#Cutting deals in smoke filled rooms of the Capitol doesn't happen anymore. Sipping scotch in a senator's hideaway to help find compromise is mostly a relic of a time gone by.
-url@#http://www.cnn.com/2017/01/09/politics/senate-gym-jeff-sessions/index.html
-urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/160228174340-01-sessions-0228-super-tease.jpg
-publishedAt@#2017-01-09T17:14:18Z
-author@#"Story by John D. Sutter, CNNVideo by Bryce Urbany and John D. Sutter, CNN"
-title@#Listening for the amphibian apocalypse
-description@#CNN's John Sutter follows a "soundscape ecologist" who is installing microphones in the Costa Rican rainforest. The goal? Listen for the sound of extinction.
-url@#http://www.cnn.com/2016/12/11/world/vanishing-sutter-amphibian-extinction/index.html
-urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/161207163540-vanishing-frogs-02-super-tease.jpg
-publishedAt@#2016-12-12T16:28:30Z
+publishedAt@#2017-01-09T19:42:35Z

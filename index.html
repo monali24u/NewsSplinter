@@ -25,9 +25,9 @@
           </div>
           <div class="collapse navbar-collapse">
             <ul id="navlist1" class="nav navbar-nav navbar-right">
-              <li><a href="#">Home</a></li>
-              <li><a href="#about">About</a></li>
-              <li><a href="#contact">Contact</a></li>
+              <!-- <li><a href="#">Home</a></li> -->
+              <!-- <li><a href="#about">About</a></li> -->
+              <!-- <li><a href="#contact">Contact</a></li> -->
             </ul>
           </div>
         </div>
@@ -74,31 +74,28 @@
           <div class="row">
             <div class="col-md-4" >
               <div class="image" ng-repeat="eachObj in newsPositiveDataArray">
-                <img ng-src="{{eachObj.urlToImage}}" height="75%" width="75%"/>
+                <a ng-href="{{eachObj.url}}" target="_blank">
+                <img ng-src="{{eachObj.urlToImage}}" height="75%" width="75%"></a>
                   <h5 id="text">{{eachObj.title}}</h5>
               </div>
             </div>
             <div class="col-md-4" >
               <div class="image" ng-repeat="eachObj in newsNegativeDataArray">
-                <img ng-src="{{eachObj.urlToImage}}" height="75%" width="75%"/>
+                <a ng-href="{{eachObj.url}}" target="_blank">
+                <img ng-src="{{eachObj.urlToImage}}" height="75%" width="75%"/></a>
                   <h5 id="text">{{eachObj.title}}</h5>
               </div>
             </div>
             <div class="col-md-4" >
               <div class="image" ng-repeat="eachObj in newsNeutralDataArray">
-                <img ng-src="{{eachObj.urlToImage}}" height="75%" width="75%"/>
+                <a ng-href="{{eachObj.url}}" target="_blank">
+                <img ng-src="{{eachObj.urlToImage}}" height="75%" width="75%"/></a>
                   <h5 id="text">{{eachObj.title}}</h5>
               </div>
             </div>
           </div>
-
   </div>
 
-    <footer>
-      <nav class="footdata">
-        <!-- <a href="https://www.linkedin.com/in/monali-patil-b9a48983">@Monali Patil, 2017</a> -->
-      </nav>
-    </footer>
   </body>
 
 </html>

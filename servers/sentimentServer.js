@@ -17,7 +17,7 @@ var newsSentimentFile   = './database/newsSentiment.txt';
 var newsSentimentArray  = [];
 
 //stream for writing sentiment data
-var file = fs.createWriteStream(newsSentimentFile);
+
 
 // fs.watchFile(newsDescriptionFile, (curr, prev) => {
 //    getSentimentData();
@@ -28,6 +28,8 @@ var file = fs.createWriteStream(newsSentimentFile);
 function getSentimentData(){
   fs.access(newsDescriptionFile, (err) => {
   if (!err) {
+        var file = fs.createWriteStream(newsSentimentFile);
+        var newsSentimentArray  = [];
       array = fs.readFileSync(newsDescriptionFile).toString().split(/@/);
     var myJson = JSON.stringify(array); // "[1,2,3]"
     unirest.post("https://community-sentiment.p.mashape.com/batch/")
@@ -48,7 +50,7 @@ function getSentimentData(){
 
         }
         else{
-          console.log("ERROR : "+ err +" "+ newsSentimentFile + " not found.\n");
+          console.log("ERROR : "+ err +" "+ newsDescriptionFile + " not found.\n");
         }
       });
   }
