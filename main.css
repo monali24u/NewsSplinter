@@ -18,11 +18,41 @@ header{
   padding: 8px 25px;
 }
 
-.container1{
+#cont1{
   position: absolute;
-  top: 8%;
-  left: 2%;
-  right: 2%;
+  top: 10%;
+  left: 5%;
+  right: 5%;
+}
+#cont1 #cir1{
+  padding-left: 65px;
+}
+#cont1 #cir2{
+  padding-left: 65px;
+}
+#cont1 #cir3{
+  padding-left: 65px;
+}
+
+#cir1 .c100:hover>span{
+    color: magenta;
+}
+#cir2 .c100:hover>span{
+    color: ivory;
+}
+#cir3 .c100:hover>span{
+    color: brown;
+}
+
+.c100.p51 #f1{
+  border: 0.08em solid brown;
+}
+
+#cont2{
+  position: absolute;
+  top: 30%;
+  left: 5%;
+  right: 5%;
 }
 
 #navlist1>li>a{
@@ -34,6 +64,20 @@ header{
     color: white;
     background-color: #00CCCC;
 }
+
+.image{
+   position: relative;
+   padding-bottom: 25px;
+}
+
+#text{
+   position: absolute;
+   top: 110px;
+   left: 3px;
+   width: 75%;
+   color: white;
+}
+
 
 /*footer{
   position: absolute;;

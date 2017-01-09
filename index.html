@@ -8,6 +8,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <script src="/angularq.js"></script>
+    <link rel="stylesheet" href="/css-circle/css/circle.css">
   </head>
   <body ng-controller="newsArticlesCntl">
     <header>
@@ -32,24 +33,70 @@
         </div>
       </nav>
   </header>
-
-    <div class="container1">
-      <div class="row row-offcanvas row-offcanvas-right">
-        <div class="col-md-12">
-          <div class="row" ng-repeat="eachObj in newsDataArray">
-            <div class="col-md-3">
-              <img ng-src="{{eachObj.urlToImage}}" height="100px" width="100px"></img>
-              <h4>{{eachObj.title}}</h4>
-              <p><a class="btn btn-default" href="#" role="button">More Details &raquo;</a></p>
+  <div class="container" id="cont1">
+    <div class="row">
+      <div class="col-md-4">
+        <div id="cir1" class="clearfix">
+            <div class="c100 p25">
+                <span>:-)</span>
+                <div class="slice">
+                    <div class="bar"></div>
+                    <div id="f1" class="fill"></div>
+                </div>
             </div>
           </div>
         </div>
+        <div class="col-md-4">
+          <div id="cir2" class="clearfix">
+              <div class="c100 p25">
+                  <span>:-|</span>
+                  <div class="slice">
+                      <div class="bar"></div>
+                      <div class="fill"></div>
+                  </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div id="cir3" class="clearfix">
+                <div class="c100 p25">
+                    <span>:-(</span>
+                    <div class="slice">
+                        <div class="bar"></div>
+                        <div class="fill"></div>
+                    </div>
+                </div>
+              </div>
+            </div>
+      </div>
     </div>
+    <div class="container" id="cont2">
+          <div class="row">
+            <div class="col-md-4" >
+              <div class="image" ng-repeat="eachObj in newsPositiveDataArray">
+                <img ng-src="{{eachObj.urlToImage}}" height="75%" width="75%"/>
+                  <h5 id="text">{{eachObj.title}}</h5>
+              </div>
+            </div>
+            <div class="col-md-4" >
+              <div class="image" ng-repeat="eachObj in newsNegativeDataArray">
+                <img ng-src="{{eachObj.urlToImage}}" height="75%" width="75%"/>
+                  <h5 id="text">{{eachObj.title}}</h5>
+              </div>
+            </div>
+            <div class="col-md-4" >
+              <div class="image" ng-repeat="eachObj in newsNeutralDataArray">
+                <img ng-src="{{eachObj.urlToImage}}" height="75%" width="75%"/>
+                  <h5 id="text">{{eachObj.title}}</h5>
+              </div>
+            </div>
+          </div>
+
   </div>
 
     <footer>
       <nav class="footdata">
-        <a href="https://www.linkedin.com/in/monali-patil-b9a48983">@Monali Patil, 2017</a>
+        <!-- <a href="https://www.linkedin.com/in/monali-patil-b9a48983">@Monali Patil, 2017</a> -->
       </nav>
     </footer>
   </body>

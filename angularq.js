@@ -5,11 +5,31 @@ var app = angular.module('newsApp', []);
 
 app.controller('newsArticlesCntl', function($scope, $http){
 
-  $http.get("/testing").success(function (data){
-    $scope.newsDataArray = angular.fromJson(data);
+ //Get positive news
+  $http.get("/positive").success(function (data){
+    console.log(data);
+    $scope.newsPositiveDataArray = angular.fromJson(data);
 
   }).error(function(){
       console.log("Failure");
   });
+
+  //Get negative news
+   $http.get("/negative").success(function (data){
+     console.log(data);
+     $scope.newsNegativeDataArray = angular.fromJson(data);
+
+   }).error(function(){
+       console.log("Failure");
+   });
+
+   //Get neutral news
+    $http.get("/neutral").success(function (data){
+      console.log(data);
+      $scope.newsNeutralDataArray = angular.fromJson(data);
+
+    }).error(function(){
+        console.log("Failure");
+    });
 
 });

@@ -17,6 +17,10 @@ var uiServer = require('./uiServer.js');
 var newsWholeData = './database/newsWholeData.txt';
 var fs = require("fs");
 var newsObjectArray = [];
+var newsObjectPositiveArray = [];
+var newsObjectNegativeArray = [];
+var newsObjectNeutralArray  = [];
+var newsSentimentPecentage  = [];
 var contentLength = 6;
 var content;
 
@@ -33,6 +37,7 @@ var ProcessNewsAndSentiment = function ProcessNewsAndSentiment(){
 //});
 
 function processNewsFile() {
+  // console.log("come in dataParser");
     var stringData = content.toString();
     var textByLine = stringData.split("\n");
     var loopLimit = (textByLine.length - 2) / contentLength;
@@ -41,7 +46,9 @@ function processNewsFile() {
         var objCreate = new news();
 
         for(var k = 0; k < contentLength; k++){
+
           var textByProperty = textByLine[ii].split("@#");
+
           if(textByProperty[0] === 'author'){
                 objCreate.author = textByProperty[1];
           }
@@ -67,6 +74,7 @@ function processNewsFile() {
         }
 
         newsObjectArray.push(objCreate);
+
     }
     if(newsObjectArray.length > 0)
        ReadprocessSentimentFile();
@@ -106,9 +114,27 @@ function processSentimentFile() {
 
           newsObjectArray[j].sentimentConfidence = textSentimentConfidenceValue;
           newsObjectArray[j].sentimentReaction   = textSentimentReactionValue;
+
+          var tocompare = newsObjectArray[j].sentimentReaction.toString();
+          if( tocompare == "\"Positive\"}")
+          {
+            newsObjectPositiveArray.push(newsObjectArray[j]);
+          }
+          else if(tocompare == "\"Negative\"}")
+          {
+            newsObjectNegativeArray.push(newsObjectArray[j]);
+          }
+          else
+          {
+            newsObjectNeutralArray.push(newsObjectArray[j]);
+          }
     }
 
-    uiServer.UpdateNewsData(newsObjectArray);
+    uiServer.UpdateNewsPositiveData(newsObjectPositiveArray);
+    uiServer.UpdateNewsNegativeData(newsObjectNegativeArray);
+    uiServer.UpdateNewsNeutralData(newsObjectNeutralArray);
+
+
     // console.log(newsObjectArray);
   //  $(document).ready(function (){
       //otherFile.something(newsObjectArray);

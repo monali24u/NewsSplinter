@@ -5,7 +5,9 @@ var path = require('path');
 var fs = require('fs');
 var host = 'localhost';
 var port = process.argv[2] || 1340
-var result = "InitiAL";
+var resultP = "InitiAL";
+var resultN = "InitiAL";
+var resultNU = "InitiAL";
 
 http.createServer((req, res) => {
 
@@ -39,10 +41,35 @@ http.createServer((req, res) => {
         })
 
   }
-  else if(req.url === '/testing'){
+  else if(req.url === '/css-circle/css/circle.css'){
+    var filePath = path.join(__dirname, '../') + 'css-circle/css/circle.css';
+        console.log("file path is "+ filePath);
+      fs.readFile(filePath, (err, contents) =>{
+              if(err){
+                res.writeHead(404, {'Content-Type':'text/css'})
+                res.end('Page not found!')
+              }
+              else{
+                res.writeHead(200, {'Content-Type':'text/css'})
+                res.end(contents);
+              }
+        })
+
+  }
+  else if(req.url === '/positive'){
     //passing data to angular module
     //console.log("came in testing");
-    res.end(result);
+    res.end(resultP);
+  }
+  else if(req.url === '/negative'){
+    //passing data to angular module
+    //console.log("came in testing");
+    res.end(resultN);
+  }
+  else if(req.url === '/neutral'){
+    //passing data to angular module
+    //console.log("came in testing");
+    res.end(resultNU);
   }
   else if(req.pathname === 'images/footer.jpg'){
     var filePath = path.join(__dirname, '../') + 'images/footer.jpg';
@@ -90,11 +117,25 @@ http.createServer((req, res) => {
   console.log('uiServer is up!! listening to port ', port)
 });
 
-function UpdateNewsData(newsData)
+function UpdateNewsPositiveData(newsData)
 {
   // console.log("Updated data" + JSON.stringify(newsData));
-  result = JSON.stringify(newsData);
+  resultP = JSON.stringify(newsData);
+  // result = newsData;
+}
+function UpdateNewsNegativeData(newsData)
+{
+  // console.log("Updated data" + JSON.stringify(newsData));
+  resultN = JSON.stringify(newsData);
+  // result = newsData;
+}
+function UpdateNewsNeutralData(newsData)
+{
+  // console.log("Updated data" + JSON.stringify(newsData));
+  resultNU = JSON.stringify(newsData);
   // result = newsData;
 }
 
-exports.UpdateNewsData = UpdateNewsData;
+exports.UpdateNewsPositiveData = UpdateNewsPositiveData;
+exports.UpdateNewsNegativeData = UpdateNewsNegativeData;
+exports.UpdateNewsNeutralData  = UpdateNewsNeutralData;

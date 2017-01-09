@@ -1,60 +1,60 @@
-author@#Steve Almasy and Eliott C. McLaughlin, CNN
-title@#Video shows moment airport gunman opened fire
-description@#Security footage obtained by TMZ shows the seconds before and after a gunman police say was Esteban Santiago opened fire at the Fort Lauderdale airport Friday.
-url@#http://www.cnn.com/2017/01/08/us/fort-lauderdale-airport-shooting-main/index.html
-urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170107084507-ft-lauderdale-esteban-santiago-mugshot-super-tease.jpg
-publishedAt@#2017-01-08T23:04:12Z
-author@#Eric Bradner, CNN
-title@#Trump drops inauguration announcer who's done them all since Eisenhower
-description@#President-elect Donald Trump is breaking from 11 presidents' worth of tradition and benching Charles Brotman.
-url@#http://www.cnn.com/2017/01/08/politics/donald-trump-charles-brotman-inauguration-announcer/index.html
-urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170108135310-charlie-brotman-announcer-file-super-tease.jpg
-publishedAt@#2017-01-08T21:48:25Z
-author@#Amy La Porte, Oren Liebermann and Michael Schwartz, CNN
-title@#Jerusalem truck attack: Suspect, 4 slain soldiers identified
-description@#Israeli police have identified the Jerusalem attack suspect as 28-year-old Fadi Qunbar of East Jerusalem.
-url@#http://www.cnn.com/2017/01/08/middleeast/jerusalem-vehicle-attack/index.html
-urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170108071355-02-jerusalem-vehicle-attack-0108-super-tease.jpg
-publishedAt@#2017-01-08T19:43:05Z
+author@#"MJ Lee, CNN National Politics Reporter"
+title@#How the tables are turning on Obamacare
+description@#Republicans warned seven years ago that a health care law passed only by Democrats -- with no support from the other party -- would struggle to survive. The party-line vote to pass Obamacare, they said, was arrogant and reckless.
+url@#http://www.cnn.com/2017/01/09/politics/tables-turning-on-obamacare/index.html
+urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170105112642-trump-obama-cutout-split-card-super-tease.jpg
+publishedAt@#2017-01-09T16:51:53Z
+author@#"Lisa Respers France, CNN"
+title@#Donald Trump attacks Streep for Globes speech
+description@#Meryl Streep never mentioned President-elect Donald Trump by name during her Golden Globes speech but he had no problem going after her.
+url@#http://www.cnn.com/2017/01/09/entertainment/donald-trump-meryl-streep-golden-globes/index.html
+urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170108232336-meryl-streep-trump-super-tease.jpg
+publishedAt@#2017-01-09T15:24:58Z
 author@#null
-title@#Video shows truck ram into soldiers  - CNN Video
-description@#Police say at least four are dead following a vehicle attack in Jerusalem.
-url@#http://www.cnn.com/videos/world/2017/01/08/jerusalem-vehicle-attack-update-liebermann-video.cnn
-urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170108090208-09-jerusalem-vehicle-attack-0108-super-tease.jpg
+title@#Conway fires back at Meryl Streep, Hollywood - CNN Video
+description@#Kellyanne Conway and CNN's Chris Cuomo discuss Meryl Streep's Golden Globes acceptance speech, which was highly critical of President-elect Trump.
+url@#http://www.cnn.com/videos/politics/2017/01/09/conway-cuomo-meryl-streep-hollywood-newday.cnn
+urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170109082045-conway-hollywood-newday-super-tease.jpg
 publishedAt@#null
-author@#Amy La Porte, CNN
-title@#Former Iranian President Rafsanjani dies
-description@#Former Iranian President Akbar Hashemi Rafsanjani died Sunday after suffering a heart attack, Iranian state-run media said. He was 82.
-url@#http://www.cnn.com/2017/01/08/middleeast/iran-former-president-rafsanjani-dies/index.html
-urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/130527151200-iran-rafsanjani-story-top.jpg
-publishedAt@#2017-01-08T20:07:06Z
-author@#Sara Ashley O'Brien and Jill Disis
-title@#Martin Shkreli kicked off Twitter
-description@#Martin Shkreli, the reviled pharmaceutical exec, has been suspended by Twitter after making unwanted advances toward a Teen Vogue editor.
-url@#http://money.cnn.com/2017/01/08/technology/martin-shkreli-suspended-twitter/index.html
-urlToImage@#http://i2.cdn.turner.com/money/dam/assets/170108140729-martin-shkreli-house-oversight-780x439.jpg
-publishedAt@#2017-01-08T03:38:34Z
-author@#Eric Bradner, CNN
-title@#McConnell: Trump's Russia hopes 'will be dashed pretty quickly'
-description@#Senate Majority Leader Mitch McConnell said Sunday he believes President-elect Donald Trump's hopes of working more cooperatively with Russia "will be dashed pretty quickly."
-url@#http://www.cnn.com/2017/01/08/politics/mitch-mcconnell-trump-russia/index.html
-urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/161212105952-02-mitch-mcconnell-file-super-tease.jpg
-publishedAt@#2017-01-08T16:35:16Z
-author@#David A. Andelman
-title@#A new look at the Putin-Trump relationship
-description@#An adroit President-elect Donald Trump could find a way to exploit Russian President Vladimir Putin's most sensitive weaknesses, on behalf of the US, says David A. Andelman.
-url@#http://www.cnn.com/2017/01/08/opinions/looking-at-trump-putin-relationship-wrong-andelman/index.html
-urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/161223123731-trump-putin-t1-split-1223-super-tease.jpg
-publishedAt@#2017-01-08T14:09:09Z
-author@#Mohammed Tawfeeq, CNN
-title@#ISIS claims 2 suicide bombings in Baghdad; 16 people killed
-description@#ISIS has claimed responsibility for two suicide bombings at crowded Baghdad markets on Sunday, killing 16 people.
-url@#http://www.cnn.com/2017/01/08/middleeast/iraq-violence/index.html
-urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/160511050927-sadr-city-map-super-tease.jpg
-publishedAt@#2017-01-08T21:52:02Z
-author@#null
-title@#Obama's farewell bash - CNN Video
-description@#A pack of celebrities headed to the White House this weekend for one final White House star-studded bash before the Obama's leave office.
-url@#http://www.cnn.com/videos/tv/2017/01/08/sotu-pkg-full.cnn
-urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170108113817-sotu-pkg-full-00002822-super-tease.jpg
-publishedAt@#null
+author@#"Holly Yan and  AnneClaire Stapleton, CNN"
+title@#Orlando police officer killed; sheriff's deputy dies during search for killer
+description@#An Orlando police officer searching for a murder suspect was gunned down Monday, and a sheriff's deputy looking for her killer also died.
+url@#http://www.cnn.com/2017/01/09/us/orlando-shooting-officer-killed/index.html
+urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170109104835-orlando-officer-killed-super-tease.jpg
+publishedAt@#2017-01-09T17:29:17Z
+author@#"James Griffiths, CNN"
+title@#North Korea sends message to Trump amid missile threat
+description@#North Korea says it could launch an intercontinental ballistic missile "at any time," even as Pyongyang appeared to offer Donald Trump an avenue for future talks.
+url@#http://www.cnn.com/2017/01/09/asia/north-korea-trump-nuclear-missile/index.html
+urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170109135700-kim-jong-un-20170101-super-tease.jpg
+publishedAt@#2017-01-09T15:36:51Z
+author@#"Stephen Collinson, CNN"
+title@#Donald Trump's big week
+description@#Donald Trump is embarking on the most crucial week of his transition into the presidency -- and, as usual, he's at the epicenter of multiple controversies.
+url@#http://www.cnn.com/2017/01/09/politics/donald-trump-big-week/index.html
+urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170104164729-trump-0104-super-tease.jpg
+publishedAt@#2017-01-09T17:14:26Z
+author@#"Tim Skoczek, The Axe Files"
+title@#Brennan says Trump ignores intel community at nation's 'peril'
+description@#Outgoing CIA Director John Brennan says President-elect Donald Trump's failure to appreciate the value and importance of the intelligence community could put the nation "at great risk and peril."
+url@#http://www.cnn.com/2017/01/09/politics/john-brennan-axe-files/index.html
+urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/160308190359-axelrod-files-super-tease.jpg
+publishedAt@#2017-01-09T15:32:10Z
+author@#"Jill Dougherty, Mansur Mirovalev and James Masters, CNN"
+title@#US election hacking: Russia hits back at 'unfounded' allegations
+description@#Russia has accused the US of embarking on a "full-scale witch hunt" over accusations it engaged in hacking during the presidential election.
+url@#http://www.cnn.com/2017/01/09/politics/russia-hacking-us-election/index.html
+urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170105115843-putin-japan-super-tease.jpg
+publishedAt@#2017-01-09T16:15:59Z
+author@#"Dana Bash and Abigail Crutchfield, CNN"
+title@#The Senate gym: Jeff Sessions' unlikely bipartisan oasis
+description@#Cutting deals in smoke filled rooms of the Capitol doesn't happen anymore. Sipping scotch in a senator's hideaway to help find compromise is mostly a relic of a time gone by.
+url@#http://www.cnn.com/2017/01/09/politics/senate-gym-jeff-sessions/index.html
+urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/160228174340-01-sessions-0228-super-tease.jpg
+publishedAt@#2017-01-09T17:14:18Z
+author@#"Story by John D. Sutter, CNNVideo by Bryce Urbany and John D. Sutter, CNN"
+title@#Listening for the amphibian apocalypse
+description@#CNN's John Sutter follows a "soundscape ecologist" who is installing microphones in the Costa Rican rainforest. The goal? Listen for the sound of extinction.
+url@#http://www.cnn.com/2016/12/11/world/vanishing-sutter-amphibian-extinction/index.html
+urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/161207163540-vanishing-frogs-02-super-tease.jpg
+publishedAt@#2016-12-12T16:28:30Z
