@@ -1,60 +1,60 @@
-author@#"Stephen Collinson, CNN"
-title@#Donald Trump's big week
-description@#Donald Trump is embarking on the most crucial week of his transition into the presidency -- and, as usual, he's at the epicenter of multiple controversies.
-url@#http://www.cnn.com/2017/01/09/politics/donald-trump-big-week/index.html
-urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170104164729-trump-0104-super-tease.jpg
-publishedAt@#2017-01-09T17:56:11Z
-author@#"Bernie Sanders"
-title@#Bernie Sanders' 23 questions for America
-description@#In advance of his town meeting on CNN, Senator Bernie Sanders says it's time to talk about serious issues: these are the 23 questions he wants to discuss.
-url@#http://www.cnn.com/2017/01/09/opinions/serious-questions-bernie-sanders-opinion/index.html
-urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170104080006-bernie-sanders-super-tease.jpg
-publishedAt@#2017-01-09T21:06:58Z
-author@#"Lisa Respers France, CNN"
-title@#Donald Trump attacks Streep for Globes speech
-description@#Meryl Streep never mentioned President-elect Donald Trump by name during her Golden Globes speech but he had no problem going after her.
-url@#http://www.cnn.com/2017/01/09/entertainment/donald-trump-meryl-streep-golden-globes/index.html
-urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170108232336-meryl-streep-trump-super-tease.jpg
-publishedAt@#2017-01-09T15:24:58Z
+author@#"Dana Bash and Daniella Diaz, CNN"
+title@#Booker to testify against fellow senator Sessions in unprecedented move
+description@#Democratic Sen. Cory Booker is set to testify against Republican Sen. Jeff Sessions Wednesday in an unprecedented move during his attorney general confirmation.
+url@#http://www.cnn.com/2017/01/09/politics/cory-booker-jeff-sessions-confirmation-hearing/index.html
+urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/160725220925-dnc-convention-cory-booker-america-rise-sot-00004428-super-tease.jpg
+publishedAt@#2017-01-10T04:30:55Z
+author@#"Jill Martin, CNN"
+title@#Clemson wins national title rematch vs Alabama
+description@#In the end, the sequel arguably was as good as the original.
+url@#http://edition.cnn.com/2017/01/09/sport/clemson-alabama-college-football-playoff-national-championship/index.html
+urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170110001656-29-college-football-playoff-championship-0109-super-tease.jpg
+publishedAt@#2017-01-10T05:56:57Z
+author@#"Seth Fiegerman"
+title@#Marissa Mayer to resign from Yahoo board after sale
+description@#Marissa Mayer will step down from Yahoo's board of directors if its sale to Verizon goes through, according to a company filing on Monday.
+url@#http://money.cnn.com/2017/01/09/technology/yahoo-marissa-mayer-altaba/index.html
+urlToImage@#http://i2.cdn.turner.com/money/dam/assets/160419091907-marissa-mayer-yahoo-san-francisco-780x439.jpg
+publishedAt@#2017-01-09T06:40:53Z
 author@#null
 title@#Conway fires back at Meryl Streep, Hollywood - CNN Video
 description@#Kellyanne Conway and CNN's Chris Cuomo discuss Meryl Streep's Golden Globes acceptance speech, which was highly critical of President-elect Trump.
 url@#http://www.cnn.com/videos/politics/2017/01/09/conway-cuomo-meryl-streep-hollywood-newday.cnn
 urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170109082045-conway-hollywood-newday-super-tease.jpg
 publishedAt@#null
-author@#"Sara Murray and Jeremy Diamond, CNN"
-title@#Jared Kushner to be named senior adviser to the president
-description@#Donald Trump's son-in-law, Jared Kushner, will be senior adviser to the president, a senior transition official told CNN Monday.
-url@#http://www.cnn.com/2017/01/09/politics/jared-kushner-to-be-named-senior-adviser-to-the-president/index.html
-urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/161116100921-01-ivanka-trump-jared-kushner-super-tease.jpg
-publishedAt@#2017-01-09T21:00:13Z
+author@#"Timothy Stanley"
+title@#Hollywood, spare us your hypocrisy
+description@#However heartfelt Meryl Streep's criticisms of Trump over his mocking disability, they nonetheless are a reminder of Hollywood's hypocrisy -- much talk and little action, writes Tim Stanley.
+url@#http://www.cnn.com/2017/01/09/opinions/meryl-streep-hollywood-hypocrisy-stanley/index.html
+urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170109090640-meryl-streep-donald-trump-split-0109-super-tease.jpg
+publishedAt@#2017-01-09T22:50:21Z
+author@#"Jaide Timm-Garcia and Darran Simon, CNN"
+title@#Fort Worth officer in arrest video suspended
+description@#An officer seen in a Facebook video arresting a woman who called police after a neighbor allegedly assaulted her young son has been suspended without pay for 10 days, authorities said Monday.
+url@#http://www.cnn.com/2017/01/09/us/fort-worth-officer-facebook-arrest-video/index.html
+urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/161222193244-fort-worth-police-facebook-super-tease.jpg
+publishedAt@#2017-01-10T06:02:44Z
 author@#"Theodore Schleifer and Laura Koran, CNN"
 title@#Kerry apologizes for State Department discrimination against LGBT employees
 description@#The State Department on Monday formally apologized for what it describes as decades of discrimination against LGBT employees and job applicants, a rare statement meant to right wrongs that preceded current Secretary of State John Kerry.
 url@#http://www.cnn.com/2017/01/09/politics/state-department-lgbt-employees-apology/index.html
 urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/161228130739-05-john-kerry-1228-super-tease.jpg
-publishedAt@#2017-01-09T19:01:13Z
-author@#"Holly Yan and  AnneClaire Stapleton, CNN"
-title@#Orlando police officer killed; sheriff's deputy dies during manhunt
-description@#An Orlando police officer searching for a murder suspect was gunned down Monday, and a sheriff's deputy looking for her killer died shortly later.
-url@#http://www.cnn.com/2017/01/09/us/orlando-shooting-officer-killed/index.html
-urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170109104835-orlando-officer-killed-super-tease.jpg
-publishedAt@#2017-01-09T20:19:44Z
-author@#"James Griffiths, CNN"
-title@#North Korea sends message to Trump amid missile threat
-description@#North Korea says it could launch an intercontinental ballistic missile "at any time," even as Pyongyang appeared to offer Donald Trump an avenue for future talks.
-url@#http://www.cnn.com/2017/01/09/asia/north-korea-trump-nuclear-missile/index.html
-urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170109135700-kim-jong-un-20170101-super-tease.jpg
-publishedAt@#2017-01-09T15:36:51Z
-author@#"MJ Lee, CNN National Politics Reporter"
-title@#How the tables are turning on Obamacare
-description@#Republicans warned seven years ago that a health care law passed only by Democrats -- with no support from the other party -- would struggle to survive. The party-line vote to pass Obamacare, they said, was arrogant and reckless.
-url@#http://www.cnn.com/2017/01/09/politics/tables-turning-on-obamacare/index.html
-urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170105112642-trump-obama-cutout-split-card-super-tease.jpg
-publishedAt@#2017-01-09T16:51:53Z
-author@#"Tim Skoczek, The Axe Files"
-title@#Brennan says Trump ignores intel community at nation's 'peril'
-description@#Outgoing CIA Director John Brennan says President-elect Donald Trump's failure to appreciate the value and importance of the intelligence community could put the nation "at great risk and peril."
-url@#http://www.cnn.com/2017/01/09/politics/john-brennan-axe-files/index.html
-urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/160308190359-axelrod-files-super-tease.jpg
-publishedAt@#2017-01-09T19:42:35Z
+publishedAt@#2017-01-09T22:31:56Z
+author@#"Betsy Klein and Deirdre Walsh, CNN"
+title@#Congressional Black Caucus to re-hang controversial painting
+description@#Democratic Rep. William Lacy Clay plans to file a police report against his colleague Rep. Duncan Hunter for removing a controversial painting from its spot in the Capitol, according to a spokesman.
+url@#http://www.cnn.com/2017/01/09/politics/congressional-black-caucus-duncan-hunter-painting/index.html
+urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170109173622-cbc-painting-capitol-hill-super-tease.jpg
+publishedAt@#2017-01-10T01:43:33Z
+author@#"Sara Murray, Jeremy Diamond and Laura Jarrett, CNN"
+title@#Jared Kushner to be named senior adviser to the president
+description@#Donald Trump's son-in-law, Jared Kushner, will be senior adviser to the president, a senior transition official told CNN Monday.
+url@#http://www.cnn.com/2017/01/09/politics/jared-kushner-to-be-named-senior-adviser-to-the-president/index.html
+urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/161116100921-01-ivanka-trump-jared-kushner-super-tease.jpg
+publishedAt@#2017-01-10T01:46:10Z
+author@#"Eric Bradner, CNN"
+title@#Sanders urges Dems to challenge -- but not obstruct -- Trump
+description@#Bernie Sanders said Senate Democratic leaders discussed Monday whether the party would flatly oppose any nomination President-elect Donald Trump makes to the Supreme Court.
+url@#http://www.cnn.com/2017/01/09/politics/bernie-sanders-town-hall/index.html
+urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170104080006-bernie-sanders-super-tease.jpg
+publishedAt@#2017-01-10T04:49:33Z

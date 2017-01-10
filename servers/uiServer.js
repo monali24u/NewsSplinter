@@ -71,8 +71,8 @@ http.createServer((req, res) => {
     //console.log("came in testing");
     res.end(resultNU);
   }
-  else if(req.pathname === 'images/footer.jpg'){
-    var filePath = path.join(__dirname, '../') + 'images/footer.jpg';
+  else if(req.pathname === '/images/newsicon1.jpg'){
+    var filePath = path.join(__dirname, '../') + 'images/newsicon1.jpg';
         console.log("file path is "+ filePath);
       fs.readFile(filePath, (err, contents) =>{
               if(err){

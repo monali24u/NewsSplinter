@@ -28,9 +28,25 @@ var newsSentimentArray  = [];
 function getSentimentData(){
   fs.access(newsDescriptionFile, (err) => {
   if (!err) {
-        var file = fs.createWriteStream(newsSentimentFile);
-        var newsSentimentArray  = [];
-      array = fs.readFileSync(newsDescriptionFile).toString().split(/@/);
+
+    //Remove if files already exist
+    fs.access(newsSentimentFile, (err) => {
+    if (!err) {
+          fs.unlink(newsSentimentFile, (err) => {
+            if (err)
+              console.log("WARNING : "+ err +" "+ newsSentimentFile + " not found.\n");
+            else
+              console.log('successfully deleted ' + newsSentimentFile);
+          });
+        }
+        else{
+          console.log("WARNING : "+ err +" "+ newsSentimentFile + " not found.\n");
+        }
+    });
+
+    var file = fs.createWriteStream(newsSentimentFile);
+    newsSentimentArray  = [];
+    array = fs.readFileSync(newsDescriptionFile).toString().split(/@/);
     var myJson = JSON.stringify(array); // "[1,2,3]"
     unirest.post("https://community-sentiment.p.mashape.com/batch/")
             .header("X-Mashape-Key", "HVDEIORzr7mshxcS5tYJyLfzkBiDp1wJQ56jsnxPbteT9Sgdpy")
@@ -50,7 +66,7 @@ function getSentimentData(){
 
         }
         else{
-          console.log("ERROR : "+ err +" "+ newsDescriptionFile + " not found.\n");
+          console.log("WARNING : "+ err +" "+ newsDescriptionFile + " not found.\n");
         }
       });
   }

@@ -8,8 +8,8 @@ class news {
     this.url = "";
     this.urlToImage = "";
     this.publishedAt = "";
-    this.sentimentConfidence = "";
-    this.sentimentReaction = "";
+    this.sentimentConfidence = "100";
+    this.sentimentReaction = "Neutral";
   }
 }
 
@@ -26,18 +26,26 @@ var content;
 
 //fs.watchFile(newsWholeData, (curr, prev) => {
 var ProcessNewsAndSentiment = function ProcessNewsAndSentiment(){
-  fs.readFile(newsWholeData, function read(err, data) {
-      if (err) {
-          throw err;
+  fs.access(newsWholeData, (err) => {
+    if (!err) {
+        fs.readFile(newsWholeData, function read(err, data) {
+            if (err) {
+                throw err;
+            }
+            content = data;
+            console.log("content " + content.length);
+            processNewsFile();
+        });
       }
-      content = data;
-      console.log("content " + content.length);
-      processNewsFile();
-  });
+      else{
+        console.log("WARNING : "+ err +" "+ newsWholeData + " not found. Will try again soon.\n");
+      }
+    });
 }
 //});
 
 function processNewsFile() {
+  newsObjectArray = [];
   // console.log("come in dataParser");
   console.log("content inside func  " + content.length);
     var stringData = content.toString();
@@ -91,23 +99,28 @@ var newsSentiment = './database/newsSentiment.txt';
 var sentimentContent;
 
 function ReadprocessSentimentFile(){
-//fs.watchFile(newsWholeData, (curr, prev) => {
-fs.readFile(newsSentiment, function read(err, data) {
-      if (err) {
-          throw err;
+  fs.access(newsSentiment, (err) => {
+        if (!err) {
+          fs.readFile(newsSentiment, function read(err, data) {
+                if (err) {
+                    throw err;
+                }
+                sentimentContent = data;
+                console.log("sentimentContent" + sentimentContent.length);
+                processSentimentFile();
+            });
       }
-      sentimentContent = data;
-      console.log("sentimentContent" + sentimentContent.length);
-      processSentimentFile();
-  });
-//});
+      else{
+        console.log("WARNING : "+ err +" "+ newsSentiment + " not found. Will try again soon.\n");
+      }
+    });
 }
 
 function processSentimentFile() {
 
-    var newsObjectPositiveArray = [];
-    var newsObjectNegativeArray = [];
-    var newsObjectNeutralArray  = [];
+    newsObjectPositiveArray = [];
+    newsObjectNegativeArray = [];
+    newsObjectNeutralArray  = [];
     var stringData1 = sentimentContent.toString();
     var textByLine1 = stringData1.split("\n");
     console.log("textByLine1.length" + textByLine1.length);
