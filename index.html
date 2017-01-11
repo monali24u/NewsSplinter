@@ -12,16 +12,17 @@
   </head>
   <body ng-controller="newsArticlesCntl">
       <div id="grad1">
-        <a class="brand">NewsSplinter</a>
-        <a href="/images/newsicon1.jpg"></a>
+        <div class="brand">News<span>Splinter</span></div>
+        <img ng-src="/images/newsicon.png" height="70px" width="70px">
       </div>
+
     <div class="container" >
           <div class="row">
             <div id="col4C" class="col-md-4" >
 
               <div id="cir1" class="clearfix">
-                  <div class="c100 p25">
-                      <span>:-)</span>
+                  <div class="c100" ng-class="positiveClass">
+                      <span>{{positivePercent}}%</span>
                       <div class="slice">
                           <div class="bar"></div>
                           <div id="f1" class="fill"></div>
@@ -30,33 +31,17 @@
                 </div>
 
               <div class="image" ng-repeat="eachObj in newsPositiveDataArray">
+                <div id="lightenUp">
                 <a ng-href="{{eachObj.url}}" target="_blank">
-                <img ng-src="{{eachObj.urlToImage}}" height="85%" width="85%"></a>
+                <img ng-src="{{eachObj.urlToImage}}" height="228px" width="304px"></a>
                   <h5 id="text">{{eachObj.title}}</h5>
-              </div>
-            </div>
-            <div class="col-md-4">
-
-              <div id="cir2" class="clearfix">
-                  <div class="c100 p25">
-                      <span>:-|</span>
-                      <div class="slice">
-                          <div class="bar"></div>
-                          <div class="fill"></div>
-                      </div>
-                  </div>
                 </div>
-
-              <div class="image" ng-repeat="eachObj in newsNegativeDataArray">
-                <a ng-href="{{eachObj.url}}" target="_blank">
-                <img ng-src="{{eachObj.urlToImage}}" height="85%" width="85%"/></a>
-                  <h5 id="text">{{eachObj.title}}</h5>
               </div>
             </div>
             <div class="col-md-4">
-              <div id="cir3" class="clearfix">
-                  <div class="c100 p25">
-                      <span>:-(</span>
+              <div id="cir2" class="clearfix">
+                  <div class="c100" ng-class="neutralClass">
+                      <span>{{neutralPercent}}%</span>
                       <div class="slice">
                           <div class="bar"></div>
                           <div class="fill"></div>
@@ -65,11 +50,34 @@
                 </div>
 
               <div class="image" ng-repeat="eachObj in newsNeutralDataArray">
+                <div id="lightenUp">
                 <a ng-href="{{eachObj.url}}" target="_blank">
-                <img ng-src="{{eachObj.urlToImage}}" height="85%" width="85%"/></a>
+                <img ng-src="{{eachObj.urlToImage}}" height="228px" width="304px"/></a>
                   <h5 id="text">{{eachObj.title}}</h5>
+                  </div>
               </div>
             </div>
+
+            <div class="col-md-4">
+              <div id="cir3" class="clearfix">
+                  <div class="c100" ng-class="negativeClass">
+                      <span>{{negativePercent}}%</span>
+                      <div class="slice">
+                          <div class="bar"></div>
+                          <div class="fill"></div>
+                      </div>
+                  </div>
+                </div>
+
+              <div class="image" ng-repeat="eachObj in newsNegativeDataArray">
+                <div id="lightenUp">
+                <a ng-href="{{eachObj.url}}" target="_blank">
+                <img ng-src="{{eachObj.urlToImage}}" height="228px" width="304px"/></a>
+                  <h5 id="text">{{eachObj.title}}</h5>
+                  </div>
+              </div>
+            </div>
+
           </div>
   </div>
 

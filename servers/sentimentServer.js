@@ -16,9 +16,6 @@ var newsDescriptionFile = './database/newsDescription.txt';
 var newsSentimentFile   = './database/newsSentiment.txt';
 var newsSentimentArray  = [];
 
-//stream for writing sentiment data
-
-
 // fs.watchFile(newsDescriptionFile, (curr, prev) => {
 //    getSentimentData();
 // });
@@ -30,19 +27,19 @@ function getSentimentData(){
   if (!err) {
 
     //Remove if files already exist
-    fs.access(newsSentimentFile, (err) => {
-    if (!err) {
-          fs.unlink(newsSentimentFile, (err) => {
-            if (err)
-              console.log("WARNING : "+ err +" "+ newsSentimentFile + " not found.\n");
-            else
-              console.log('successfully deleted ' + newsSentimentFile);
-          });
-        }
-        else{
-          console.log("WARNING : "+ err +" "+ newsSentimentFile + " not found.\n");
-        }
-    });
+    // fs.access(newsSentimentFile, (err) => {
+    // if (!err) {
+    //       fs.unlink(newsSentimentFile, (err) => {
+    //         if (err)
+    //           console.log("WARNING : "+ err +" "+ newsSentimentFile + " not found.\n");
+    //         else
+    //           console.log('successfully deleted ' + newsSentimentFile);
+    //       });
+    //     }
+    //     else{
+    //       console.log("WARNING : "+ err +" "+ newsSentimentFile + " not found.\n");
+    //     }
+    // });
 
     var file = fs.createWriteStream(newsSentimentFile);
     newsSentimentArray  = [];
@@ -70,6 +67,5 @@ function getSentimentData(){
         }
       });
   }
-
 
   exports.getSentimentData = getSentimentData;

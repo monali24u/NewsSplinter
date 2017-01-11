@@ -71,16 +71,16 @@ http.createServer((req, res) => {
     //console.log("came in testing");
     res.end(resultNU);
   }
-  else if(req.pathname === '/images/newsicon1.jpg'){
-    var filePath = path.join(__dirname, '../') + 'images/newsicon1.jpg';
+  else if(req.url === '/images/newsicon.png'){
+    var filePath = path.join(__dirname, '../') + 'images/newsicon.png';
         console.log("file path is "+ filePath);
       fs.readFile(filePath, (err, contents) =>{
               if(err){
-                res.writeHead(404, {'Content-Type':'image/jpeg'})
+                res.writeHead(404, {'Content-Type':'image/png'})
                 res.end('image not found!')
               }
               else{
-                res.writeHead(200, {'Content-Type':'image/jpeg'})
+                res.writeHead(200, {'Content-Type':'image/png'})
                 res.end(contents);
               }
         })

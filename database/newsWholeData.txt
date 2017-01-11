@@ -1,60 +1,162 @@
-author@#"Dana Bash and Daniella Diaz, CNN"
-title@#Booker to testify against fellow senator Sessions in unprecedented move
-description@#Democratic Sen. Cory Booker is set to testify against Republican Sen. Jeff Sessions Wednesday in an unprecedented move during his attorney general confirmation.
-url@#http://www.cnn.com/2017/01/09/politics/cory-booker-jeff-sessions-confirmation-hearing/index.html
-urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/160725220925-dnc-convention-cory-booker-america-rise-sot-00004428-super-tease.jpg
-publishedAt@#2017-01-10T04:30:55Z
-author@#"Jill Martin, CNN"
-title@#Clemson wins national title rematch vs Alabama
-description@#In the end, the sequel arguably was as good as the original.
-url@#http://edition.cnn.com/2017/01/09/sport/clemson-alabama-college-football-playoff-national-championship/index.html
-urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170110001656-29-college-football-playoff-championship-0109-super-tease.jpg
-publishedAt@#2017-01-10T05:56:57Z
-author@#"Seth Fiegerman"
-title@#Marissa Mayer to resign from Yahoo board after sale
-description@#Marissa Mayer will step down from Yahoo's board of directors if its sale to Verizon goes through, according to a company filing on Monday.
-url@#http://money.cnn.com/2017/01/09/technology/yahoo-marissa-mayer-altaba/index.html
-urlToImage@#http://i2.cdn.turner.com/money/dam/assets/160419091907-marissa-mayer-yahoo-san-francisco-780x439.jpg
-publishedAt@#2017-01-09T06:40:53Z
 author@#null
-title@#Conway fires back at Meryl Streep, Hollywood - CNN Video
-description@#Kellyanne Conway and CNN's Chris Cuomo discuss Meryl Streep's Golden Globes acceptance speech, which was highly critical of President-elect Trump.
-url@#http://www.cnn.com/videos/politics/2017/01/09/conway-cuomo-meryl-streep-hollywood-newday.cnn
-urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170109082045-conway-hollywood-newday-super-tease.jpg
+title@#BSF jawan who griped about food asks for CBI probe - Times of India
+description@#As pressure mounted on Tej Bahadur Yadav over his video post criticising living conditions for soldiers at the border, the BSF jawan remained defiant, claiming he had surpassed legendary revolutionary Bhagat Singh in exposing corruption in the forces.
+url@#http://timesofindia.indiatimes.com/india/bsf-jawan-who-griped-about-food-asks-for-cbi-probe/articleshow/56464559.cms
+urlToImage@#http://timesofindia.indiatimes.com/photo/56464827.cms
+publishedAt@#0001-01-01T00:00:00Z
+author@#"Pradeep Thakur"
+title@#13 cooprative banks deposited Rs 1,600 crore in banned notes post demonetisation - Times of India
+description@#An ongoing investigation by the ED against 50 bank branches of ten leading banks across the country has raised suspicions of big money laundering operations across the country post demonetisation, using dormant and newly opened accounts.
+url@#http://timesofindia.indiatimes.com/india/13-cooprative-banks-deposited-rs-1600-crore-in-banned-notes/articleshow/56464717.cms
+urlToImage@#http://timesofindia.indiatimes.com/photo/56464779.cms
+publishedAt@#0001-01-01T00:00:00Z
+author@#"Dhananjay Mahapatra"
+title@#Government’s ‘slow’ handling of litigation riles Supreme Court - Times of India
+description@#The Supreme Court expressed displeasure on Tuesday over the Centre’s “slow” handling of sensitive cases in the highest court and rapped it for seeking “adjournment in almost every case”.
+url@#http://timesofindia.indiatimes.com/india/governments-slow-handling-of-litigation-riles-supreme-court/articleshow/56464916.cms
+urlToImage@#http://timesofindia.indiatimes.com/photo/56464893.cms
+publishedAt@#0001-01-01T00:00:00Z
+author@#null
+title@#Demography, democracy, demand are India's strengths: PM Modi at Vibrant Gujarat Summit - Times of India
+description@#GANDHINAGAR: India's strength lies in demography, democracy, and demand, Prime Minister Narendra Modi said on Tuesday, inaugurating the Vibrant Gujarat Global Summit here.
+url@#http://timesofindia.indiatimes.com/india/demography-democracy-demand-are-indias-strengths-pm-modi-at-vibrant-gujarat-summit/articleshow/56447824.cms
+urlToImage@#http://timesofindia.indiatimes.com/photo/56452404.cms
+publishedAt@#0001-01-01T00:00:00Z
+author@#null
+title@#At least nine dead in Kandahar blast during UAE envoy's visit - Times of India
+description@#At least nine people were killed in an explosion in the governor's compound in Afghanistan's southern Kandahar province Tuesday during a visit by the UAE ambassador, local media reported.
+url@#http://timesofindia.indiatimes.com/world/south-asia/at-least-nine-dead-in-kandahar-blast-during-uae-envoys-visit/articleshow/56462681.cms
+urlToImage@#http://timesofindia.indiatimes.com/photo/56462671.cms
+publishedAt@#0001-01-01T00:00:00Z
+author@#null
+title@#In final speech, Barack Obama must reconcile his hopes with Donald Trump's - Times of India
+description@#Now an elder statesman, President Barack Obama was returning on Tuesday to the city where he launched his unlikely political career for one final speech: a parting plea to Americans not to lose faith in their future, no matter what they think about their next president.
+url@#http://timesofindia.indiatimes.com/world/us/in-final-speech-barack-obama-must-reconcile-his-hopes-with-donald-trumps/articleshow/56466138.cms
+urlToImage@#http://timesofindia.indiatimes.com/photo/56466140.cms
+publishedAt@#0001-01-01T00:00:00Z
+author@#null
+title@#Notes scrapped on government's prod, RBI tells House panel - Times of India
+description@#The Reserve Bank of India (RBI) has told a parliamentary panel that it recommended the scrapping of Rs 500 and Rs 1,000 notes on November 8 after a prod from the Centre a day before. The response is part of a 7-page note the central bank has sent to Parliament’s standing committee on finance.
+url@#http://timesofindia.indiatimes.com/india/notes-scrapped-on-governments-prod-rbi-tells-house-panel/articleshow/56465175.cms
+urlToImage@#http://timesofindia.indiatimes.com/photo/56465176.cms
+publishedAt@#0001-01-01T00:00:00Z
+author@#"http://www.abc.net.au/news/6815894"
+title@#Centrelink's debt-recovery system not broken, Minister says
+description@#The Human Services Minister says the Government will not scrap Centrelink's debt-recovery system.
+url@#http://www.abc.net.au/news/2017-01-11/centrelink's-debt-recovery-system-to-remain-government-says/8174644
+urlToImage@#http://www.abc.net.au/news/image/5199250-1x1-700x700.jpg
+publishedAt@#2017-01-10T22:40:17Z
+author@#null
+title@#Trump's choice for attorney general opposed law banning waterboarding
+description@#Donald Trump's candidate for attorney general, Republican Senator Jeff Sessions, says he would enforce a 2015 law that outlawed waterboarding terrorism suspects, even though he had opposed the law.
+url@#http://www.abc.net.au/news/2017-01-11/donald-trump-attorney-general-jeff-sessions-waterboarding/8174628
+urlToImage@#http://www.abc.net.au/news/image/8174642-1x1-700x700.jpg
+publishedAt@#2017-01-10T23:34:16Z
+author@#"http://www.abc.net.au/news/james-oaten/5512204, http://www.abc.net.au/news/jane-bardon/167024"
+title@#Former youth detainees file class action against NT Government
+description@#The class action could set a precedent for others who have suffered inside NT youth corrections centres.
+url@#http://www.abc.net.au/news/2017-01-11/youth-detainees-file-class-action-against-nt-government/8173422
+urlToImage@#http://www.abc.net.au/news/image/8173608-1x1-700x700.jpg
+publishedAt@#2017-01-10T23:48:52Z
+author@#"http://www.abc.net.au/news/amar-guriro-/8173090"
+title@#Why honour killings continue in Pakistan despite tough new laws
+description@#Hayat Khan, who slaughtered his sister for talking to a boy over the telephone, speaks out about honour killings in Pakistan.
+url@#http://www.abc.net.au/news/2017-01-11/why-honour-killings-continue-in-pakistan-despite-tough-new-laws/8172756
+urlToImage@#http://www.abc.net.au/news/image/8172914-1x1-700x700.jpg
+publishedAt@#2017-01-10T18:56:11Z
+author@#"http://www.abc.net.au/news/amy-bainbridge/3938908"
+title@#Woman, children suffer 'horrific' burns while using Banana Boat sunscreen
+description@#A Melbourne woman and a Brisbane mother are the latest in a string of people raising safety concerns about Banana Boat sunscreen.
+url@#http://www.abc.net.au/news/2017-01-11/woman-children-severely-burnt-while-using-banana-boat-sunscreen/8169608
+urlToImage@#http://www.abc.net.au/news/image/8169666-1x1-700x700.jpg
+publishedAt@#2017-01-10T23:47:35Z
+author@#"http://www.abc.net.au/news/ashlynne-mcghee/167076, http://www.abc.net.au/news/6815894"
+title@#Taxpayers billed for Bishop's trip to exclusive polo match
+description@#Julie Bishop charged taxpayers $2,716 to attend a polo match.
+url@#http://www.abc.net.au/news/2017-01-10/julie-bishop-charged-taxpayers-for-trip-to-polo/8173542
+urlToImage@#http://www.abc.net.au/news/image/8173606-1x1-700x700.jpg
+publishedAt@#2017-01-10T20:20:30Z
+author@#null
+title@#Jury condemns Dylann Roof to death for South Carolina church massacre
+description@#A jury in South Carolina sentences Dylann Roof to death for killing nine black church members in 2015.
+url@#http://www.abc.net.au/news/2017-01-11/dylann-roof-sentenced-to-deathsouth-carolina-church-massacre/8174798
+urlToImage@#http://www.abc.net.au/news/image/6557656-1x1-700x700.jpg
+publishedAt@#2017-01-10T23:53:50Z
+author@#"http://www.abc.net.au/news/tom-iggulden/166940"
+title@#Abbott's Brexit defence part of plan to undermine PM: Opposition
+description@#Tony Abbott's defence of Brexit is part of a strategy to undermine Malcolm Turnbull, the Opposition says.
+url@#http://www.abc.net.au/news/2017-01-11/abbott-brexit-defence-part-of-strategy-to-undermine-turnbull/8174140
+urlToImage@#http://www.abc.net.au/news/image/6774548-1x1-700x700.jpg
+publishedAt@#2017-01-10T23:50:07Z
+author@#"http://www.abc.net.au/news/dom--vukovic/7637226, http://www.abc.net.au/news/abc-local/8022802"
+title@#Fire bans, air quality warning in Sydney as NSW temperatures soar
+description@#Temperatures will soar across large areas of the state today, with total fire bans in many parts of NSW as an air quality warning for Sydney.
+url@#http://www.abc.net.au/news/2017-01-11/heatwave-fire-bans-across-parts-of-nsw-as-temperatures-soar/8173428
+urlToImage@#http://www.abc.net.au/news/image/5197452-1x1-700x700.jpg
+publishedAt@#2017-01-10T22:50:47Z
+author@#null
+title@#Trump in talks with vaccine sceptic Kennedy to launch immunisation review
+description@#US President-elect Donald Trump meets with vaccination sceptic Robert F Kennedy Jr about forming a presidential panel to review vaccine safety and science.
+url@#http://www.abc.net.au/news/2017-01-11/donald-trump-appoints-vaccine-sceptic/8174560
+urlToImage@#http://www.abc.net.au/news/image/8174572-1x1-700x700.jpg
+publishedAt@#2017-01-10T23:30:06Z
+author@#"Evan Perez, Jim Sciutto, Jake Tapper and Carl Bernstein, CNN"
+title@#Intel chiefs presented Trump with claims of Russian efforts to compromise him
+description@#Classified documents presented last week to President Obama and President-elect Trump included allegations that Russian operatives claim to have compromising personal and financial information about Mr. Trump, multiple US officials with direct knowledge of the briefings tell CNN.
+url@#http://www.cnn.com/2017/01/10/politics/donald-trump-intelligence-report-russia/index.html
+urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170110153531-v2-trump-comey-clapper-brennan-rogers-5way-split-super-tease.jpg
+publishedAt@#2017-01-10T23:17:58Z
+author@#"Dan Merica, CNN"
+title@#Trump team denies skeptic was asked to head vaccine commission
+description@#President-elect Donald Trump met with notable anti-vaccine activist Robert F. Kennedy, Jr. Tuesday, further stoking unfounded fears about vaccine safety and efficacy by asking the Democrat to chair a commission on the issue.
+url@#http://www.cnn.com/2017/01/10/politics/robert-f-kennedy-jr-donald-trump-vaccine-commission/index.html
+urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170110121004-donald-trump-0109-super-tease.jpg
+publishedAt@#2017-01-10T23:17:15Z
+author@#"Deirdre Walsh and MJ Lee, CNN"
+title@#Trump wants Obamacare repeal 'quickly,' but Republicans aren't ready
+description@#Republican leaders in Congress, including House Speaker Paul Ryan, are busy trying to reassure GOP lawmakers who are nervous about repealing Obamacare too fast without a replacement plan.
+url@#http://www.cnn.com/2017/01/10/politics/paul-ryan-obamacare-repeal-and-replace/index.html
+urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170105152517-02-paul-ryan-0105-super-tease.jpg
+publishedAt@#2017-01-10T23:05:11Z
+author@#"Frida Ghitis"
+title@#Donald Trump is 'gaslighting' all of us
+description@#His practice of asking Americans to deny what they see with their own eyes is a chilling harbinger of what journalists and other Americans will have to confront in his presidency, Frida Ghitis says.
+url@#http://www.cnn.com/2017/01/10/opinions/donald-trump-is-gaslighting-america-ghitis/index.html
+urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170103170538-trump-1-super-tease.jpg
+publishedAt@#2017-01-10T22:37:18Z
+author@#null
+title@#Live: Attorney general confirmation hearing
+description@#null
+url@#http://www.cnn.com/specials/live-video-3
+urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170109183514-confirmation-hearing-jeff-sessions-super-tease.jpg
 publishedAt@#null
-author@#"Timothy Stanley"
-title@#Hollywood, spare us your hypocrisy
-description@#However heartfelt Meryl Streep's criticisms of Trump over his mocking disability, they nonetheless are a reminder of Hollywood's hypocrisy -- much talk and little action, writes Tim Stanley.
-url@#http://www.cnn.com/2017/01/09/opinions/meryl-streep-hollywood-hypocrisy-stanley/index.html
-urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170109090640-meryl-streep-donald-trump-split-0109-super-tease.jpg
-publishedAt@#2017-01-09T22:50:21Z
-author@#"Jaide Timm-Garcia and Darran Simon, CNN"
-title@#Fort Worth officer in arrest video suspended
-description@#An officer seen in a Facebook video arresting a woman who called police after a neighbor allegedly assaulted her young son has been suspended without pay for 10 days, authorities said Monday.
-url@#http://www.cnn.com/2017/01/09/us/fort-worth-officer-facebook-arrest-video/index.html
-urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/161222193244-fort-worth-police-facebook-super-tease.jpg
-publishedAt@#2017-01-10T06:02:44Z
-author@#"Theodore Schleifer and Laura Koran, CNN"
-title@#Kerry apologizes for State Department discrimination against LGBT employees
-description@#The State Department on Monday formally apologized for what it describes as decades of discrimination against LGBT employees and job applicants, a rare statement meant to right wrongs that preceded current Secretary of State John Kerry.
-url@#http://www.cnn.com/2017/01/09/politics/state-department-lgbt-employees-apology/index.html
-urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/161228130739-05-john-kerry-1228-super-tease.jpg
-publishedAt@#2017-01-09T22:31:56Z
-author@#"Betsy Klein and Deirdre Walsh, CNN"
-title@#Congressional Black Caucus to re-hang controversial painting
-description@#Democratic Rep. William Lacy Clay plans to file a police report against his colleague Rep. Duncan Hunter for removing a controversial painting from its spot in the Capitol, according to a spokesman.
-url@#http://www.cnn.com/2017/01/09/politics/congressional-black-caucus-duncan-hunter-painting/index.html
-urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170109173622-cbc-painting-capitol-hill-super-tease.jpg
-publishedAt@#2017-01-10T01:43:33Z
-author@#"Sara Murray, Jeremy Diamond and Laura Jarrett, CNN"
-title@#Jared Kushner to be named senior adviser to the president
-description@#Donald Trump's son-in-law, Jared Kushner, will be senior adviser to the president, a senior transition official told CNN Monday.
-url@#http://www.cnn.com/2017/01/09/politics/jared-kushner-to-be-named-senior-adviser-to-the-president/index.html
-urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/161116100921-01-ivanka-trump-jared-kushner-super-tease.jpg
-publishedAt@#2017-01-10T01:46:10Z
-author@#"Eric Bradner, CNN"
-title@#Sanders urges Dems to challenge -- but not obstruct -- Trump
-description@#Bernie Sanders said Senate Democratic leaders discussed Monday whether the party would flatly oppose any nomination President-elect Donald Trump makes to the Supreme Court.
-url@#http://www.cnn.com/2017/01/09/politics/bernie-sanders-town-hall/index.html
-urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170104080006-bernie-sanders-super-tease.jpg
-publishedAt@#2017-01-10T04:49:33Z
+author@#"Daniella Diaz, CNN"
+title@#Trump confirmation hearings: Jeff Sessions' first hearing
+description@#Attorney general nominee Jeff Sessions faces his first Senate confirmation hearing ahead of President Obama's farewell speech on January 10, 2017.
+url@#http://www.cnn.com/2017/01/10/politics/trump-cabinet-confirmation-hearings-live/index.html
+urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170109164117-confirmation-hearing-live-blog-super-tease.jpg
+publishedAt@#2017-01-10T23:26:15Z
+author@#null
+title@#Protesters in KKK garb removed from hearing - CNN Video
+description@#Two protesters dressed in KKK outfits are escorted out of Sen. Jeff Sessions' confirmation hearing for attorney general.
+url@#http://www.cnn.com/videos/politics/2017/01/10/jeff-sessions-protester-kkk-outfit.cnn
+urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170110095143-jeff-sessions-protester-kkk-outfit-00000000-super-tease.jpg
+publishedAt@#null
+author@#"Nicole Gaouette"
+title@#FBI's Comey: Republicans also hacked by Russia
+description@#Top intelligence officials indicated on Tuesday that the GOP was also a Russian hacking target but that none of the information obtained was leaked.
+url@#http://www.cnn.com/2017/01/10/politics/comey-republicans-hacked-russia/index.html
+urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/161031150010-01james-comey-ach-1031-super-tease.jpg
+publishedAt@#2017-01-10T21:16:58Z
+author@#"Andrew Kaczynski"
+title@#HarperCollins pulls Trump pick Monica Crowley's book amid plagiarism revelations
+description@#Publisher HarperCollins is ending sales of Trump aide and former Fox News contributor Monica Crowley's book until revisions can
+url@#http://money.cnn.com/2017/01/10/media/kfile-harper-collins-monica-crowley/index.html
+urlToImage@#http://i2.cdn.turner.com/money/dam/assets/170105153111-monica-crowley-780x439.jpg
+publishedAt@#2017-01-10T12:39:48Z
+author@#"Elise Labott and Nicole Gaouette, CNN"
+title@#Trump may start with US ambassador in Jerusalem, not an embassy
+description@#President-elect Donald Trump's transition has been floating the possibility of initially having the US ambassador to Israel work and live in the US consulate in Jerusalem, while the American Embassy remains in Tel Aviv.
+url@#http://www.cnn.com/2017/01/10/politics/trump-embassy-plan-jerusalem/index.html
+urlToImage@#http://i2.cdn.cnn.com/cnnnext/dam/assets/170110135250-us-embassy-tel-aviv-israel-super-tease.jpg
+publishedAt@#2017-01-10T21:52:19Z

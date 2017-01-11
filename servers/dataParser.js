@@ -127,6 +127,8 @@ function processSentimentFile() {
     var loopLimit1 = (textByLine1.length - 2);
     console.log("loopLimit1:- " + loopLimit1);
 
+if(textByLine1.length >= 12){
+
     for(var j = 0; j < loopLimit1; j++){
 
           var textSentiment = textByLine1[j].split(",");
@@ -158,7 +160,40 @@ function processSentimentFile() {
     uiServer.UpdateNewsPositiveData(newsObjectPositiveArray);
     uiServer.UpdateNewsNegativeData(newsObjectNegativeArray);
     uiServer.UpdateNewsNeutralData(newsObjectNeutralArray);
+}
+else{
 
+  // console.log("content inside sentiment else loop " + content.length);
+    var stringData = content.toString();
+    var textByLine = stringData.split("\n");
+    var loopLimitForSentiment = (textByLine.length) / contentLength;
+    console.log("loopLimitForSentiment else loop "+ loopLimitForSentiment);
+    var eachArrayLength =  loopLimitForSentiment/3;
+    console.log("eachArrayLength  " + eachArrayLength);
+
+    for(var p = 0; p < eachArrayLength; p++){
+      newsObjectArray[p].sentimentConfidence = "100";
+      newsObjectArray[p].sentimentReaction   = "Positive"
+      newsObjectPositiveArray.push(newsObjectArray[p]);
+    }
+
+    var lengthq = eachArrayLength + eachArrayLength;
+    for(var q = p; q < lengthq; q++){
+      newsObjectArray[q].sentimentConfidence = "100";
+      newsObjectArray[q].sentimentReaction   = "Negative"
+      newsObjectNegativeArray.push(newsObjectArray[q]);
+    }
+
+    for(var r = q; r < loopLimitForSentiment-1; r++){
+      newsObjectArray[r].sentimentConfidence = "100";
+      newsObjectArray[r].sentimentReaction   = "Neutral"
+      newsObjectNeutralArray.push(newsObjectArray[r]);
+    }
+    uiServer.UpdateNewsPositiveData(newsObjectPositiveArray);
+    uiServer.UpdateNewsNegativeData(newsObjectNegativeArray);
+    uiServer.UpdateNewsNeutralData(newsObjectNeutralArray);
+
+}
 
     // console.log(newsObjectArray);
   //  $(document).ready(function (){

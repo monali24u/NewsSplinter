@@ -1,19 +1,42 @@
 
 body{
   margin: 0px;
-  background-color: #66FFFF;
+  background-color: #e2e6e9;
 }
 
 #grad1 {
-  height: 65px;
-  background: -webkit-linear-gradient(left, rgba(19,48,110,0), rgba(19,48,110,1));
+  height: 70px;
+  background: -webkit-linear-gradient(left, rgba(48, 123, 187,0), rgba(48, 123, 187,1));
   border-bottom: 5px solid black;
-
 }
+
+#grad1 img{
+  position: absolute;
+  left: 270px;
+}
+
+.brand span{
+  font-variant: small-caps;
+  font-weight: bold;
+  font-family: "Great Vibes";
+  font-size: 50px;
+}
+
 .brand {
-    color: #00CCCC; font-family: "Great Vibes", cursive; font-size: 35px;  text-shadow: 0 1px 1px #fff;
+    /*color: red; font-family: "Great Vibes", cursive;   text-shadow: 0 1px 1px pink;*/
     position: absolute;
     left: 20px;
+    font-size: 28px;
+    background: -webkit-linear-gradient(red, magenta);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
+
+.brand:hover {
+    background: -webkit-linear-gradient(aqua, blue);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 
@@ -24,13 +47,13 @@ body{
   right: 5%;
 }
 #cir1{
-  padding-left: 35%;
+  padding-left: 27%;
 }
 #cir2{
-  padding-left: 35%;
+  padding-left: 27%;
 }
 #cir3{
-  padding-left: 35%;
+  padding-left: 27%;
 }
 .row {
     margin-right: -15px;
@@ -45,13 +68,28 @@ body{
   text-align: center;
 }
 #cir1 .c100:hover>span{
-    color: magenta;
+    /*color: magenta;*/
+    font-family: 'museo_slab500';
+    font-weight: bold;
+    background: -webkit-linear-gradient(red, magenta);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 #cir2 .c100:hover>span{
-    color: black;
+    /*color: black;*/
+    font-family: 'museo_slab500';
+    font-weight: bold;
+    background: -webkit-linear-gradient(ivory, black);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 #cir3 .c100:hover>span{
-    color: brown;
+    /*color: brown;*/
+    font-family: 'museo_slab500';
+    font-weight: bold;
+    background: -webkit-linear-gradient(pink, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 .c100.p51 #f1{
@@ -78,18 +116,40 @@ body{
 .image{
    position: relative;
    padding-bottom: 25px;
+
+}
+.image #lightenUp{
+  position: relative;
+  padding-bottom: 25px;
+  opacity: 1;
+  height:228px;
+  width:304px;
+  background-color: black;
+}
+.image #lightenUp:hover{
+  position: relative;
+  padding-bottom: 25px;
+  opacity: 0.92;
 }
 
 #text{
-
-   position: absolute;
-    bottom: 20px;
+    position: absolute;
+    bottom: 15px;
     font-family: 'museo_slab500';
-    left: 8%;
+    left: 2%;
     font-size: 120%;
-    color: #fff;
-    padding: 0 20px;
-    width: 85%;
+    font-weight: bold;
+    color: rgb(48, 123, 187);
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+    padding: 0 10px;
+    width: 92%;
     line-height: 100%;
+    display: inline-block;
+}
 
+
+#text:hover{
+  color: white;
+  text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+  font-size: 160%;
 }

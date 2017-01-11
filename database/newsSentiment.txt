@@ -1,0 +1,1 @@
+{"confidence":"50.0000","result":"Neutral"}
